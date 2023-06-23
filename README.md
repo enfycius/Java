@@ -5,7 +5,7 @@
 <h1 align="center">Java Tutorials</h1>
 
 <p align="center">
-    A collection of projects, resources and tutorials (etc) for learning Java
+    A collection of projects, resources and tutorials (etc) for learning Java.
 </p>
 
 <p align="center">
